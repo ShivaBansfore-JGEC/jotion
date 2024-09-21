@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1726912188677,
+      "tag": "0000_clear_salo",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1726912651435,
+      "tag": "0001_mature_blue_shield",
+      "breakpoints": true
+    }
+  ]
+}
